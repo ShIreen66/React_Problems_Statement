@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+button { cursor: pointer; }
+
+input, select { outline: none; }
